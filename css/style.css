@@ -53,42 +53,42 @@ h3 {
    } 
    
 .education li {
-     font-family: 'Times New Roman'; 
-     font-size: 40px;
-     display: block;
+  font-family: 'Times New Roman'; 
+  font-size: 40px;
+  display: block;
    }
    
 /* accomplishments section */
 h4 {
-     font-family: 'Arial';
-     font-size: 60px; 
-     display: inline;
+  font-family: 'Arial';
+  font-size: 60px; 
+  display: inline;
    } 
    
 .accomplishments li {
-     font-family: 'Times New Roman'; 
-     font-size: 40px;
-     display: block;
+  font-family: 'Times New Roman'; 
+  font-size: 40px;
+  display: block;
    }
   
 /* profiles */
  h5 {
-      font-family: 'Arial'; 
-      font-size: 50px;
-      display: inline-block;
+   font-family: 'Arial'; 
+   font-size: 50px;
+   display: inline-block;
 }
         
 .profiles {
-   font-family: 'Times New Roman'; 
-   font-size: 50px; 
-   display: inline-block;
+  font-family: 'Times New Roman'; 
+  font-size: 50px; 
+  display: inline-block;
 } 
 
 /* work samples */ 
 h6 { 
   font-family: 'Arial'; 
-      font-size: 47px;
-      display: inline-block;
+  font-size: 50px;
+  display: inline-block;
 }
 .work-samples li {
     font-family: 'Times New Roman'; 
@@ -97,8 +97,7 @@ h6 {
 }
 
 .worksheet-img { 
-   width: 50px;
-   length: 75px;
+margin: 50px 80px 50px 0;
 } 
 
 .worksamples {
