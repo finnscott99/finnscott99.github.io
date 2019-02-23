@@ -98,7 +98,8 @@ h6 {
 }
 
 .worksheet-img { 
-   margin: 35px 50px 35px 0;
+   width: 50px;
+   length: 75px;
 } 
 
 .worksamples {
