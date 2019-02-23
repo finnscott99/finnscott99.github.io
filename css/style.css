@@ -1,11 +1,11 @@
 html, body {
   background-color: #0099ff;
-  margin: 0;
+  margin: 16px 0;
   padding: 0;
 }
 
 body {
-  font-family: 'Lucida Console', sans-serif;
+  font-family: 'Arial', sans-serif;
   font-weight: 500;
 } 
 
@@ -17,7 +17,7 @@ body {
 
 /* my name */
  h1 { 
-  font-family: 'Lucid Console'; 
+  font-family: 'Arial'; 
   color: #fff;
   line-height: 110px; 
   font-size: 75px;
@@ -34,45 +34,46 @@ body {
  
 /* about me section*/
 h2 {
-    font-family: 'Lucid Console';
+    font-family: 'Arial';
     font-size: 60px;
    }
    
 .about me p {
     text-align: center;
     font-family: 'Times New Roman';
-    font-size: 50px; 
-   }
+    font-size: 40px; 
+    margin: 20px 0;
+  }
    
 /* education section*/
 h3 {
-     font-family: 'Lucid Console';
+     font-family: 'Arial';
      font-size: 60px; 
      display: inline;
    } 
    
 .education li {
      font-family: 'Times New Roman'; 
-     font-size: 50px;
+     font-size: 40px;
      display: block;
    }
    
 /* accomplishments section */
 h4 {
-     font-family: 'Times New Roman';
+     font-family: 'Arial';
      font-size: 60px; 
      display: inline;
    } 
    
 .accomplishments li {
      font-family: 'Times New Roman'; 
-     font-size: 50px;
+     font-size: 40px;
      display: block;
    }
   
 /* profiles */
  h5 {
-      font-family: 'sans-serif'; 
+      font-family: 'Arial'; 
       font-size: 50px;
       display: inline-block;
 }
