@@ -6,7 +6,7 @@ html, body {
 
 body {
   font-family: 'Lucida Console', sans-serif;
-  font-weight: 50;
+  font-weight: 500;
 } 
 
 .header { 
@@ -43,36 +43,36 @@ h2 {
 h3 {
      font-family: 'Lucid Console';
      font-size: 60px; 
-     display: left;
+     display: inline;
    } 
    
 .education li {
      font-family: 'Times New Roman'; 
      font-size: 50px;
-     display: left;
+     display: inline;
    }
    
 h4 {
      font-family: 'Lucid Console';
      font-size: 60px; 
-     display: left;
+     display: inline;
    } 
    
 .accomplishments li {
      font-family: 'Times New Roman'; 
      font-size: 50px;
-     display: left;
+     display: inline;
    }
    
  h5 {
       font-family: 'Lucida Console'; 
       font-size: 50px;
-      display: center;
+      display: inline-block;
 }
         
 .profiles a {
    font-family: 'Times New Roman'; 
    font-size: 50px; 
-   display: center;
+   display: inline-block;
 }
    
