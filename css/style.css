@@ -15,7 +15,8 @@ body {
   text-align: center; 
 }
 
- h1 {
+ h1 { 
+  font-family: 'Lucid Console'; 
   color: #fff;
   line-height: 110px; 
   font-size: 75px;
