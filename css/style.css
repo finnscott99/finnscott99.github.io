@@ -15,6 +15,7 @@ body {
   text-align: center; 
 }
 
+/* my name */
  h1 { 
   font-family: 'Lucid Console'; 
   color: #fff;
@@ -25,22 +26,25 @@ body {
   text-transform: uppercase;
   }
    
- .main img {
+/* image of me*/
+ .main img { 
   float: right;
   margin: 50px 80px 50px 0;
 }
  
+/* about me section*/
 h2 {
     font-family: 'Lucid Console';
     font-size: 60px;
    }
    
 .about me p {
-    display: inline;
+    text-align: center;
     font-family: 'Times New Roman';
     font-size: 50px; 
    }
    
+/* education section*/
 h3 {
      font-family: 'Lucid Console';
      font-size: 60px; 
@@ -50,9 +54,10 @@ h3 {
 .education li {
      font-family: 'Times New Roman'; 
      font-size: 50px;
-     display: inline;
+     display: block;
    }
    
+/* accomplishments section */
 h4 {
      font-family: 'Lucid Console';
      font-size: 60px; 
@@ -62,9 +67,10 @@ h4 {
 .accomplishments li {
      font-family: 'Times New Roman'; 
      font-size: 50px;
-     display: inline;
+     display: block;
    }
-   
+  
+/* profiles */
  h5 {
       font-family: 'Lucida Console'; 
       font-size: 50px;
