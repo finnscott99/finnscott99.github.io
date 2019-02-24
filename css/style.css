@@ -88,7 +88,7 @@ h5 {
 h6 { 
   font-family: 'Arial'; 
   font-size: 50px;
-  display: inline-block;
+  display: inline;
 }
 .work-samples li {
     font-family: 'Times New Roman'; 
