@@ -71,15 +71,15 @@ h4 {
     display: block; 
 }
 
-.worksheet-img { 
-  margin: 50px 80px 50px 0;
-} 
-
 .worksamples {
   font-family: 'Times New Roman';
   font-size: 50px; 
+} 
+
+.report { 
+  font-family: 'Times New Roman';
+  font-size: 50px; 
 }
-  
    
 /* accomplishments section */
 h5 {
