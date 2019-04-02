@@ -11,8 +11,18 @@
 <body>
   <!-- My name -->
   <div class="Finneas C. Scott">
-    <h1>Finneas C. Scott</h1>
-    <img src="http://i64.tinypic.com/25z7976.jpg" alt="Finneas Scott" class="main-img">
+    <svg height="500" width="1000">
+      <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:rgb(100,150,255);stop-opacity:1" />
+          <stop offset="100%" style="stop-color:rgb(150,100,0);stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <ellipse cx="250" cy="70" rx="230" ry="55" fill="url(#grad1)" />
+      <text fill="#ffffff" font-size="50" font-family="Verdana" x="50" y="86">Finneas C. Scott</text> 
+    Sorry, your browser does not support inline SVG.
+    </svg>
+    <img src="http://i64.tinypic.com/25z7976.jpg" alt="Finneas Scott" class="main-img"> 
   </div>
 
        <!-- About Me -->
@@ -77,6 +87,25 @@
        <div>
          <a href="http://www.w3.org/html/logo/"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics"></a>
        </div>
+        
+        <!--Canvas Background -->
+        <canvas id="myCanvas" width="2500" height="1500" style="border:1px solid #d3d3d3;">
+          Your browser does not support the HTML5 canvas tag.
+        </canvas>
+
+        <script>
+          var c = document.getElementById("myCanvas");
+          var ctx = c.getContext("2d");
+
+          //Gradient
+          var grd = ctx.createRadialGradient(50,50,5, 70,70,2000);
+          grd.addColorStop(0,"limegreen");
+          grd.addColorStop(1,"#42B4FF");
+
+         // Filling gradient
+         ctx.fillStyle = grd;
+         ctx.fillRect(0,0,2500,1500);
+       </script>
       
      </div>
    </div> 
