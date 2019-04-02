@@ -1,7 +1,6 @@
 /* html/body */
 html, body {
   background: canvas(myCanvas);
-  background-color: #42B4FF;
   margin: 16px 0;
   padding: 0;
 }
