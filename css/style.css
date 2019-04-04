@@ -1,10 +1,4 @@
 /* html/body */
-html, body {
-  background-color: #42B4FF;
-  margin: 16px 0;
-  padding: 0;
-}
-
 body {
   font-family: 'Arial', sans-serif;
   font-weight: 500;
