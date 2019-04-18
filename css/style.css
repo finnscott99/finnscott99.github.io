@@ -1,6 +1,6 @@
 /* html/body */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   font-weight: 500;
 } 
 
@@ -11,7 +11,7 @@ body {
 
 /* my name */
  h1 { 
-   font-family: 'Arial'; 
+   font-family: 'Times New Roman'; 
    line-height: 110px; 
    font-size: 75px;
    margin-top: 0;
@@ -27,7 +27,7 @@ body {
  
 /* about me section*/
 h2 {
-  font-family: 'Arial';
+  font-family: 'Times New Roman';
   font-size: 60px;
 }
    
@@ -40,7 +40,7 @@ h2 {
    
 /* education section*/
 h3 {
-  font-family: 'Arial';
+  font-family: 'Times New Roman';
   font-size: 60px; 
   display: inline;
 } 
@@ -53,7 +53,7 @@ h3 {
 
 /* work samples */ 
 h4 { 
-  font-family: 'Arial'; 
+  font-family: 'Times New Roman'; 
   font-size: 50px;
   display: inline;
 }
@@ -76,7 +76,7 @@ h4 {
    
 /* accomplishments section */
 h5 {
-  font-family: 'Arial';
+  font-family: 'Times New Roman';
   font-size: 60px; 
   display: inline;
    } 
@@ -89,7 +89,7 @@ h5 {
   
 /* profiles */
 h6 {
-  font-family: 'Arial'; 
+  font-family: 'Times New Roman'; 
   font-size: 50px;
   display: inline-block;
 }
