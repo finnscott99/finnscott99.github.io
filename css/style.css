@@ -126,3 +126,17 @@ h7 {
   font-size: 35px; 
   margin: 20px 0;
 }
+
+/* scratch notes and credits */
+h8 {
+  font-family: 'Times New Roman';
+  font-size: 60px; 
+  display: inline;
+}
+
+.notes and credits {
+  text-align: inline;
+  font-family: 'Times New Roman';
+  font-size: 35px; 
+  margin: 20px 0;
+}
