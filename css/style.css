@@ -111,5 +111,18 @@ canvas{
 /* audio */
 .audio{
   position: center;
-}  
-  
+} 
+
+/* accessibility */
+h7 {
+  font-family: 'Times New Roman';
+  font-size: 60px; 
+  display: inline;
+}
+
+.accessibility {
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 35px; 
+  margin: 20px 0;
+}
