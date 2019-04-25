@@ -121,7 +121,7 @@ h7 {
 }
 
 .accessibility {
-  text-align: center;
+  text-align: inline;
   font-family: 'Times New Roman';
   font-size: 35px; 
   margin: 20px 0;
