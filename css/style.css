@@ -141,8 +141,9 @@ h8 {
   margin: 20px 0;
 }
 
+/* Transcript */
 .transcript {
- text-align: inline;
- font-family: 'Times New Roman';
- font-size: 20px; 
+  text-align: inline;
+  font-family: 'Times New Roman';
+  font-size: 20px; 
 }  
